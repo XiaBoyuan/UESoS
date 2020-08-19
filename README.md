@@ -1,2 +1,2 @@
 # UESoS
-Netlogo-based UESoS combat platform
+Netlogo-based USoS battle platform
